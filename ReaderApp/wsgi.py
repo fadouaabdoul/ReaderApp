@@ -1,5 +1,5 @@
 """
-WSGI config for ReaderApp project.
+WSGI config for paper project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
